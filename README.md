@@ -3,8 +3,9 @@
 ## 📌 Sobre o Projeto
 O **OmniChef** é um sistema de **Ponto de Venda (PDV)** desenvolvido para restaurantes e lanchonetes, com foco em **automação de processos**, **controle de pedidos**, **administração de mesas** e **fidelização de clientes**.  
 
----
+<img width="800" height="450" alt="Video_AplicativoOminiChef_02" src="https://github.com/user-attachments/assets/d96bd118-9c8f-4bd6-9134-2f1438d7ba9a" />
 
+---
 ## 🚀 Funcionalidades
 - 📋 **Gestão de Mesas**: controle visual do status (livre/ocupada) e quantidade de clientes.  
 - 🍔 **Gestão de Pedidos**: criação, edição e acompanhamento em tempo real.  
